@@ -1,0 +1,7 @@
+name: Bobbe/AltoRouter
+author:
+  name: Dima
+  email: dmitriyknnv@gmail.com
+  url: null
+copyright: 2015 Dima
+description: 'PHP5.3+ Routing Class. Lightweight yet extremely flexible. Supports REST, dynamic and reversed routing. '
